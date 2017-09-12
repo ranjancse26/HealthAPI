@@ -1,0 +1,13 @@
+﻿{
+  "id": "54ed75ccd9f8e13b13eaf17f",
+  "userId": "52e20cb2fff56aac62000001",
+  "timestamp": "2015-02-25T07:09:52.000Z",
+  "tzOffset": "-07:00",
+  "value": 18.695,
+  "unit": "percent",
+  "source": "withings",
+  "sourceData": {},
+  "createdAt": "2015-02-26T05:21:01.021Z",
+  "updatedAt": "2015-02-26T05:21:01.021Z",
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
+}

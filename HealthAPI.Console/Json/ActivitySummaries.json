@@ -1,0 +1,62 @@
+﻿[{
+  "id": "550fe4b68c34cc6661f46f7f",
+  "userId": "52e20cb2fff56aac62000001",
+  "date": "2015-03-23",
+  "duration": 722,
+  "distance": 1506.71611260169,
+  "steps": 0,
+  "calories": 118,
+  "source": "runkeeper",
+  "vigorous": 0,
+  "moderate": 0,
+  "light": 0,
+  "sedentary": 0,
+  "sourceData": {},
+  "createdAt": "2015-03-23T18:02:29.578Z",
+  "updatedAt": "2015-03-23T18:02:29.578Z",
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
+}, {
+  "id": "550fb80568d29c4133b5e134",
+  "userId": "52e20cb2fff56aac62000001",
+  "date": "2015-03-23",
+  "duration": 108,
+  "distance": 171,
+  "steps": 207,
+  "calories": 12.1920387848,
+  "source": "jawbone",
+  "vigorous": 0,
+  "moderate": 0,
+  "light": 0,
+  "sedentary": 254,
+  "sourceData": {},
+  "createdAt": "2015-03-23T06:51:49.355Z",
+  "updatedAt": "2015-03-23T17:48:16.610Z",
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
+}, {
+  "calories": 2720,
+  "createdAt": "2015-03-22T01:24:07.212Z",
+  "date": "2015-03-22",
+  "distance": 9410,
+  "duration": 23100,
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6",
+  "id": "5600adb7d5f967080013c1f0",
+  "light": 341,
+  "moderate": 3,
+  "sedentary": 1055,
+  "source": "fitbit",
+  "sourceData": {
+      "floors": 0,
+      "tracker": {
+          "calories": 2720,
+          "distance": 9409.92,
+          "elevation": 0,
+          "floors": 0,
+          "steps": 12224
+      }
+  },
+  "steps": 12224,
+  "updatedAt": "2015-10-30T08:11:23.359Z",
+  "userId": "52e20cb2fff56aac62000001",
+  "vigorous": 41
+  }
+]

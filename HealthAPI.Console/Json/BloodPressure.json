@@ -1,0 +1,14 @@
+﻿{
+  "id": "550b8a8e834dd16f259683b1",
+  "userId": "52e20cb2fff56aac62000001",
+  "timestamp": "2015-03-19T22:48:26.000Z",
+  "tzOffset": "-07:00",
+  "systolic": 117,
+  "diastolic": 76,
+  "unit": "mmHg",
+  "heartRate": 66,
+  "source": "ihealth",
+  "createdAt": "2015-03-20T02:48:46.925Z",
+  "updatedAt": "2015-03-20T02:48:46.925Z",
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
+}

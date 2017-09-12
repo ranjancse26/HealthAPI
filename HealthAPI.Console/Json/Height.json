@@ -1,0 +1,13 @@
+﻿{
+  "id": "5509b45bb384e1620a5933c5",
+  "userId": "52e20cb2fff56aac62000001",
+  "timestamp": "2015-03-18T00:00:00.000Z",
+  "tzOffset": "-07:00",
+  "value": 1753,
+  "unit": "mm",
+  "source": "fitbit",
+  "sourceData": {},
+  "createdAt": "2015-03-18T17:22:35.859Z",
+  "updatedAt": "2015-03-18T17:22:35.859Z",
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "id": "5506f5080ba9b35f0af6cc8a",
+  "userId": "52e20cb2fff56aac62000001",
+  "timestamp": "2015-03-16T23:59:59.000Z",
+  "tzOffset": "-07:00",
+  "value": 92.9,
+  "unit": "kg",
+  "source": "fitbit",
+  "sourceData": {},
+  "createdAt": "2015-03-16T15:21:44.289Z",
+  "updatedAt": "2015-03-16T15:24:48.475Z",
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
+}

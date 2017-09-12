@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthAPI.Console", "HealthAPI.Console\HealthAPI.Console.csproj", "{A5762B94-EF5B-4D16-B15A-65CB40A0865C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthAPI.Lib", "HealthAPI.Lib\HealthAPI.Lib.csproj", "{1D499D91-6773-44D6-8319-179A185B4569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5762B94-EF5B-4D16-B15A-65CB40A0865C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5762B94-EF5B-4D16-B15A-65CB40A0865C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5762B94-EF5B-4D16-B15A-65CB40A0865C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5762B94-EF5B-4D16-B15A-65CB40A0865C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D499D91-6773-44D6-8319-179A185B4569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D499D91-6773-44D6-8319-179A185B4569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D499D91-6773-44D6-8319-179A185B4569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D499D91-6773-44D6-8319-179A185B4569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

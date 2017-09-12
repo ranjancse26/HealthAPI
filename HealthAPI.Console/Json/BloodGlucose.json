@@ -1,0 +1,13 @@
+﻿{
+  "id": "54be39e6c3fa43b8057d59fc",
+  "userId": "52e20cb2fff56aac62000001",
+  "timestamp": "2015-01-20T12:20:04.000Z",
+  "tzOffset": "-07:00",
+  "value": 94,
+  "unit": "mg/dL",
+  "source": "ihealth",
+  "sourceData": {},
+  "createdAt": "2015-03-16T23:48:43.696Z",
+  "updatedAt": "2015-03-16T23:48:43.696Z",
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
+}

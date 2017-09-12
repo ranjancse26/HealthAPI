@@ -1,0 +1,13 @@
+﻿{
+  "id": "54d1f018810a5ba429951b07",
+  "userId": "52e20cb2fff56aac62000001",
+  "timestamp": "2015-01-26T06:58:37.000Z",
+  "tzOffset": "-07:00",
+  "value": 99,
+  "unit": "SpO2(%)",
+  "source": "withings",
+  "sourceData": {},
+  "createdAt": "2015-02-04T10:10:32.691Z",
+  "updatedAt": "2015-02-04T10:10:32.691Z",
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
+}

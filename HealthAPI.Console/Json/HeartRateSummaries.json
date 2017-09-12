@@ -1,0 +1,46 @@
+﻿[
+  {
+    "id": "550b8a8e834dd16f259683b2",
+    "userId": "52e20cb2fff56aac62000001",
+    "date": "2017-06-29",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 97,
+        "min": 30,
+        "duration": 45600,
+        "caloriesBurned": 1497.92
+      },
+      {
+        "name": "Fat Burn",
+        "max": 135,
+        "min": 97,
+        "duration": 5040,
+        "caloriesBurned": 557.41
+      },
+      {
+        "name": "Cardio",
+        "max": 164,
+        "min": 135,
+        "duration": 180,
+        "caloriesBurned": 34.98
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 164,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 58,
+    "averageHR": 66,
+    "maxHR": 158,
+    "minHR": 45,
+    "source": "fitbit",
+    "sourceData": {},
+    "createdAt": "2017-07-07T20:39:18.346Z",
+    "updatedAt": "2017-07-07T20:39:18.346Z",
+    "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
+  }
+]

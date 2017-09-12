@@ -1,0 +1,13 @@
+﻿{
+  "id": "1",
+  "userId": "52e20cb2fff56aac62000001",
+  "timestamp": "2017-11-06T23:59:59.000Z",
+  "tzOffset": "-07:00",
+  "value": 30.26,
+  "unit": "kg/m2",
+  "source": "fitbit",
+  "sourceData": {},
+  "createdAt": "2017-11-06T15:21:44.304Z",
+  "updatedAt": "2017-11-06T15:24:48.492Z",
+  "humanId": "b75a5b0f-cf93-487e-b134-2a3d241413a9"
+}

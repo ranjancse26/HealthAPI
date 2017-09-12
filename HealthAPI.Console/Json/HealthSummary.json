@@ -1,0 +1,95 @@
+﻿{
+  "humanId": "5dc2527186aaf9de560e5841f1a44bd6",
+  "userId": "52e20cb2fff56aac62000001",
+  "createdAt": "2014-01-24T06:48:18.361Z",
+  "bloodGlucose": {
+    "id": "54be39e6c3fa43b8057d59fc",
+    "timestamp": "2015-01-20T12:20:04.000Z",
+    "tzOffset": "-07:00",
+    "source": "ihealth",
+    "value": 94,
+    "unit": "mg/dL"
+  },
+  "bloodOxygen": {
+    "id": "54d1f018810a5ba429951b07",
+    "timestamp": "2015-01-26T06:58:37.000Z",
+    "tzOffset": "-07:00",
+    "source": "withings",
+    "value": 99,
+    "unit": "SpO2"
+  },
+  "bloodPressure": {
+    "id": "550b8a8e834dd16f259683b1",
+    "userId": "52e20cb2fff56aac62000001",
+    "timestamp": "2015-03-19T22:48:26.000Z",
+    "tzOffset": "-07:00",
+    "source": "ihealth",
+    "systolic": 117,
+    "diastolic": 76,
+    "unit": "mmHg",
+    "heartRate": 66
+  },
+  "bmi": {
+    "id": "5506f5080ba9b35f0af6cc89",
+    "timestamp": "2015-03-16T23:59:59.000Z",
+    "tzOffset": "-07:00",
+    "source": "fitbit",
+    "value": 30.26,
+    "unit": "kg/m2"
+  },
+  "bodyFat": {
+    "id": "54ed75ccd9f8e13b13eaf17f",
+    "timestamp": "2015-02-25T07:09:52.000Z",
+    "tzOffset": "-07:00",
+    "source": "withings",
+    "value": 18.695,
+    "unit": "%"
+  },
+  "height": {
+    "id": "5509b45bb384e1620a5933c5",
+    "timestamp": "2015-03-18T00:00:00.000Z",
+    "tzOffset": "-07:00",
+    "source": "fitbit",
+    "value": 1753,
+    "unit": "mm"
+  },
+  "heartRate": {
+    "id": "550b8a8e834dd16f259683b2",
+    "timestamp": "2015-03-19T22:48:26.000Z",
+    "tzOffset": "-07:00",
+    "source": "ihealth",
+    "value": 66,
+    "unit": "bpm"
+  },
+  "weight": {
+    "id": "5506f5080ba9b35f0af6cc8a",
+    "timestamp": "2015-03-16T23:59:59.000Z",
+    "tzOffset": "-07:00",
+    "source": "fitbit",
+    "value": 92.9,
+    "unit": "kg"
+  },
+  "activitySummary": {
+    "id": "53adbf5dbef3fe0d24a1d453",
+    "date": "2014-06-27",
+    "duration": 1468.137,
+    "distance": 3043.21010200387,
+    "sedentary": 0,
+    "light": 0,
+    "moderate": 0,
+    "vigorous": 0,
+    "total": 1468.137,
+    "steps": 0,
+    "calories": 241,
+    "source": "runkeeper"
+  },
+  "sleepSummary": {
+    "id": "540e96b74247c3ea71d671b9",
+    "userId": "52e20cb2fff56aac62000001",
+    "date": "2014-09-09",
+    "source": "fitbit",
+    "timeAsleep": 456,
+    "timeAwake": 0,
+    "updatedAt": "2014-09-11T02:28:27.377Z"
+  }
+}
